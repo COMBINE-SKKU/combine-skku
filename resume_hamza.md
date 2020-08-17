@@ -11,16 +11,16 @@ resume:
   email: "hamzashahnawaz@hotmail.com"
   phone: "(010) 9319-9103"
   summary: >
-    Hi there, I am an internee at combine lab.
+    Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
   location:
     address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
     postalCode: "16419"
     city: "Suwon"
     countryCode: "South Korea"
   profiles:
-    - network: "Twitter"
-      username: ""
-      url: ""
+    - network: "Linkedin"
+      username: "Muhammad Hamza Shah Nawaz"
+      url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
     - network: ""
       username: ""
       url: ""
