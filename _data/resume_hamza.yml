@@ -1,51 +1,14 @@
-# Test
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@COMBINE-SKKU
-COMBINE-SKKU /
-combine-skku
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests 3
-Actions
-Projects
-Wiki
-Security 7
-Insights
-
-    Settings
-
-combine-skku/_data/resume_hamza.yml
-@COMBINE-SKKU
-COMBINE-SKKU combine-skku website files are committed
-Latest commit 116aa31 on May 10
-History
-1 contributor
-We found potential security vulnerabilities in your dependencies.
-
-Only the owner of this repository can see this message.
-133 lines (132 sloc) 5.54 KB
 # If you have a `resume.json` file, copy it into `_data` and delete this file.
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Muhammad Hamza Shah Nawaz, Research Assistant"
-  label: "Principal Investigator"
-  picture: "/assets/icons/HSJ_icon.png"
-  email: "hong.seok.jun@gmail.com"
+  name: "Muhammad Hamza Shah Nawaz, Graduate"
+  label: "Post Graduate intern"
+  picture: "/assets/icons/hamza2.png"
+  email: "hamzashahnawaz@hotmail.com"
   phone: "(201) 551-1662"
   summary: >
-    Hi there, I am a computational neuroscientist with a spectialty in brain network modeling and data-driven subtyping of typical and atypical developmental conditions. I am currently an assistant professor in the Department of Biomedical Engineering at Sungkyunkwan University (SKKU), and in a full time affiliation with IBS Center for Neuroscience Imaging Research (CNIR) in S.Korea. I am also jointly affiliated as a research scientist to the Center for the Developing Brain at the Child Mind Institute in New York. Building upon expertise in computer science, statistics and neuroinformatics, I have actively conducted neuroimaging experiments to link cognitive/clinical neuroscience and machine learning algorithms for the last 10 years. At SKKU and CMI, I am expanding my research scope to apply advanced statistical and computational algorithms to model functional dynamics and analyze various behavioral and neuroimaging data of both human and non-human primate brains.
+    Hi there, I am an internee at combine lan.
   location:
     address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
     postalCode: "16419"
