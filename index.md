@@ -34,7 +34,7 @@ See our job [posting].
 IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
 [PhD]: resume.md
-[Graduate]: /_data/resume_hamza.md
+[Graduate]: resume_hamza.md
 
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
