@@ -1,6 +1,6 @@
 ---
 layout: resume_hamza
-title: Résumé
+title: Résumé_hamza
 description: >
 hide_description: false
 menu: true
