@@ -1,6 +1,6 @@
 ---
-layout: resume_hamza
-title: Résumé_hamza
+layout: resume
+title: Résumé
 description: >
 hide_description: false
 resume:
