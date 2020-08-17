@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: resume_hamza
 title: Résumé
 description: >
 hide_description: false
