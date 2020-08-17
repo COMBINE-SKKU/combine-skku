@@ -24,62 +24,51 @@ resume:
     - network: ""
       username: ""
       url: ""
-    - network: ""
-      username: ""
-      url: ""
 work:
   - company: "Sungkyunkwan University, Suwon South Korea"
     position: "Post Graduate Intern"
     startDate: "2020-07-01"
-    endDate: ""
+    endDate: "2020-12-30"
     summary: >
       Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-  - company: ""
-    position: ""
-    startDate: ""
-    endDate: ""
-    summary: >
       
 education:
-  - institution: ""
-    area: ""
-    studyType: ""
-    startDate: ""
-    endDate: ""
+  - institution: "Sungkyunkwan University, South Korea"
+    area: "Computer Science"
+    studyType: "Masters"
+    startDate: "2017-08-01"
+    endDate: "2020-03-22"
     courses:
-      - ""
-
-    studyType: "BSc"
-    startDate: "2001-03-01"
-    endDate: "2007-07-31"
+      - "Major: Deep Learning"
+      - "Supervisor: Dr. Dong Ryeol Shin"
+      - "Thesis: A multi blocked image classifier for deep learning"
+    studyType: "BSCS"
+    startDate: "2011-12-12"
+    endDate: "2016-03-18"
     courses:
-      - "Major: Computer Science and Cognitive Science (double major)"
+      - "Major: Computer Science"
 
 skills:
   - name: "Programming"
-    level: "Master"
+    level: "Intermediate"
     keywords:
-      - "MATLAB"
       - "Python"
+      - "Java"
+      - "R"
+      - "PHP"
       - "Bash"
-  - name: "Image processing"
-    level: "Master"
-    keywords:
-      - "Surfstat"
-      - "Freesurfer"
-      - "Workbench"
-      - "FSL"
-      - "Connectivity analysis"
-      - "Morphometry"
 languages:
+  - language: "Urdu"
+    fluency: "native"
   - language: "English"
     fluency: "Fluent"
+  - language: "Korean"
+    fluency: "basic"
 menu: true
 order: 3
 left_column:
  - work
  - education 
- - awards
 right_column:
  - skills
  - languages
