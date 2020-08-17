@@ -19,9 +19,9 @@ Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
-Internee<br/>
-![Internee](/assets/img/hamza2.jpg)<br/>
-Muhammad Hamza Shah Nawaz, Graduate<br/>
+Intern<br/>
+![Intern](/assets/img/hamza2.jpg)<br/>
+Muhammad Hamza Shah Nawaz, [Graduate]{:.heading.flip-title}<br/>
 
 <h2>We are hiring now!</h2>
 See our job [posting].
@@ -34,5 +34,6 @@ See our job [posting].
 IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
 [PhD]: resume.md
+[Graduate]: /_data/resume_hamza.yml
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
