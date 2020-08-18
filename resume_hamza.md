@@ -48,7 +48,7 @@ resume:
       startDate: "2011-12-12"
       endDate: "2016-03-18"
       courses:
-      - "Major: Computer Science"
+        - "Major: Computer Science"
 
   skills:
     - name: "Programming"
