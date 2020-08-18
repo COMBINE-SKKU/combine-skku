@@ -17,7 +17,7 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 ## People
 Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
-Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
+[Seok-Jun Hong, PhD]{:.heading.flip-title}<br/>
 
 Intern<br/>
 ![Intern](/assets/img/hamza2.jpg)<br/>
@@ -33,7 +33,7 @@ See our job [posting].
 </body>
 IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
-[PhD]: resume.md
+[Seok-Jun Hong, PhD]: resume.md
 [Muhammad Hamza Shah Nawaz, Graduate]: resume_hamza.md
 
 [posting]: /job/
