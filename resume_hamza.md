@@ -67,7 +67,7 @@ resume:
     - language: "Korean"
       fluency: "basic"
 menu: true
-order: 5
+order: 2
 left_column:
  - work
  - education 
