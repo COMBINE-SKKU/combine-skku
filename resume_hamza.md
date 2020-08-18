@@ -5,7 +5,7 @@ description: >
 hide_description: false
 resume:
  basics:
-  name: "Muhammad Hamza Shah Nawaz, Graduate"
+  name: "Muhammad Hamza Nawaz, Graduate"
   label: "Post Graduate intern"
   picture: "/assets/icons/hamza2.jpg"
   email: "hamzashahnawaz@hotmail.com"
