@@ -21,7 +21,7 @@ Seok-Jun Hong, [PhD]{:.heading.flip-title}<br/>
 
 Intern<br/>
 ![Intern](/assets/img/hamza2.jpg)<br/>
-Muhammad Hamza Shah Nawaz, [Graduate]<br/>
+Muhammad Hamza Shah Nawaz, [Graduate]{:.heading.flip-title}<br/>
 
 <h2>We are hiring now!</h2>
 See our job [posting].
