@@ -3,7 +3,7 @@ layout: resume_hamza
 title: Résumé
 description: >
 hide_description: false
-resume:
+resume_hamza:
   basics:
     name: "Muhammad Hamza Shah Nawaz, Graduate"
     label: "Post Graduate intern"
