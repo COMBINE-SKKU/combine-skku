@@ -69,7 +69,6 @@ menu: true
 left_column:
  - work
  - education 
- - awards
 right_column:
  - skills
  - languages
