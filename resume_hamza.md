@@ -11,7 +11,8 @@ resume:
     phone: "(010) 9319-9103"
     summary: >
       Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
-    location: address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
+    location:
+      address:"IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
       postalCode: "16419"
       city: "Suwon"
       countryCode: "South Korea"
