@@ -2,17 +2,14 @@
 layout: resume_hamza
 title: Résumé
 description: >
-  A short description here
+  Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
 resume:
   basics:
     name: "Muhammad Hamza Shah Nawaz, Graduate"
     label: "Post Graduate intern"
     picture: "/assets/icons/hamza2.jpg"
     email: "hamzashahnawaz@hotmail.com"
-    phone: "(010) 9319-9103"
-    summary: >
-      Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
-
+    phone: "(010) 9319-9103
     location:
       address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
       postalCode: "16419"
@@ -32,7 +29,6 @@ resume:
       endDate: "2020-12-30"
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-
   education:
     - institution: "Sungkyunkwan University, South Korea"
       area: "Computer Science"
