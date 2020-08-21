@@ -9,7 +9,7 @@ resume:
     label: "Post Graduate intern"
     picture: "/assets/icons/hamza2.jpg"
     email: "hamzashahnawaz@hotmail.com"
-    phone: "(010) 9319-9103
+    phone: "(010) 9319-9103"
     summary: >
       Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
     location:
@@ -28,6 +28,7 @@ resume:
       endDate: "2020-12-30"
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
+
   education:
     - institution: "Sungkyunkwan University, South Korea"
       area: "Computer Science"
@@ -47,7 +48,7 @@ resume:
         - "Major: Computer Science"
   skills:
     - name: "Programming"
-      level: "intermediate"
+      level: "2/3"
       keywords:
         - "Python"
         - "Java"
