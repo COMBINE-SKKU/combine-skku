@@ -61,12 +61,4 @@ resume:
       fluency: "Fluent"
     - language: "Korean"
       fluency: "basic"
-menu: true
-order: 3
-left_column:
- - work
- - education 
-right_column:
- - skills
- - languages
 ---
