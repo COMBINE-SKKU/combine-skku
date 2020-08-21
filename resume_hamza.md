@@ -52,7 +52,7 @@ resume:
         - "Major: Computer Science"
   skills:
     - name: "Programming"
-      level: "2/3"
+      level: "intermediate"
       keywords:
         - "Python"
         - "Java"
@@ -66,7 +66,6 @@ resume:
     - language: "Korean"
       fluency: "basic"
 menu: true
-order: 3
 left_column:
  - work
  - education 
