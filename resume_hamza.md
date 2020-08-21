@@ -21,9 +21,6 @@ resume:
       - network: "Linkedin"
         username: "Muhammad Hamza Shah Nawaz"
         url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
-      - network: ""
-        username: ""
-        url: ""
   work:
     - company: "Sungkyunkwan University, Suwon South Korea"
       position: "Post Graduate Intern"
