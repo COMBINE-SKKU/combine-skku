@@ -16,9 +16,9 @@ resume:
       city: "Suwon"
       countryCode: "South Korea"
     profiles:
-      - network: "Linkedin"
-        username: "Muhammad Hamza Shah Nawaz"
-        url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
+      network: "Linkedin"
+      username: "Muhammad Hamza Shah Nawaz"
+      url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
   work:
     - company: "Sungkyunkwan University, Suwon South Korea"
       position: "Post Graduate Intern"
