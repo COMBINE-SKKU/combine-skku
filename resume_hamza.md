@@ -48,7 +48,7 @@ resume:
         - "Major: Computer Science"
   skills:
     - name: "Programming"
-      level: "2/3"
+      level: "Intermediate"
       keywords:
         - "Python"
         - "Java"
