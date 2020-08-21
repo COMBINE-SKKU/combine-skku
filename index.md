@@ -5,8 +5,7 @@ hide_description: true
 ---
 
 # Welcome to the COMBINE Lab!
-(/assets/img/combine_lab_photo.jpg)
-<br/>
+![labphoto](/assets/img/combine_lab_photo.jpg)<br/>
 {:.no_toc}
 0. Introduction
 1. People
