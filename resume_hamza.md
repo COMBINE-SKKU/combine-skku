@@ -2,7 +2,7 @@
 layout: resume_hamza
 title: Résumé
 description: >
-hide_description: true
+hide_description: false
 resume:
   basics:
     name: "Muhammad Hamza Shah Nawaz, Graduate"
