@@ -2,7 +2,6 @@
 layout: resume_hamza
 title: Résumé
 description: >
-hide_description: false
 resume:
   basics:
     name: "Muhammad Hamza Shah Nawaz, Graduate"
@@ -28,7 +27,6 @@ resume:
       endDate: "2020-12-30"
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-
   education:
     - institution: "Sungkyunkwan University, South Korea"
       area: "Computer Science"
