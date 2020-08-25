@@ -22,7 +22,7 @@ resume:
         username: "Han Byul Cho"
         url: "https://scholar.google.com/citations?hl=en&user=LHwLMQQAAAAJ&view_op=list_works"
   work:
-    - company: "Sungkyunkwan University, Suwon South Korea"
+    - company: "Sungkyunkwan University, Suwon, South Korea"
       position: "Post Doctoral Fellow"
       startDate: "2020-07-01"
       summary: >
