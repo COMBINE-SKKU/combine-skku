@@ -1,5 +1,5 @@
 ---
-layout: resume_hamza
+layout: resume
 title: Résumé
 resume:
   basics:
