@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Muhammad Hamza, Graduate"
-    label: "Post Graduate intern"
+    label: "Post Master intern"
     picture: "/assets/icons/hamza2.jpg"
     email: "hamzashahnawaz@hotmail.com"
     phone: "(010) 9319-9103"
