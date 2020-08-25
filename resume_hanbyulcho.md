@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Han Byul Cho, PhD"
-    label: "Postdoc"
+    label: "Post Doctoral fellow"
     picture: "/assets/icons/CHB_resume.jpeg"
     email: "hanbyul.h.cho@gmail.com"
     summary: >
@@ -16,10 +16,10 @@ resume:
       countryCode: "South Korea"
     profiles:
       - network: "Twitter"
-        username: "hanbyul cho"
+        username: "Han Byul Cho"
         url: "https://twitter.com/h_hanbyul"
       - network: "Google Scholar"
-        username: "hanbyul cho"
+        username: "Han Byul Cho"
         url: "https://scholar.google.com/citations?hl=en&user=LHwLMQQAAAAJ&view_op=list_works"
   work:
     - company: "Sungkyunkwan University, Suwon South Korea"
@@ -45,11 +45,15 @@ resume:
       studyType: "PhD"
       startDate: "2009-09-01"
       endDate: "2014-08-28"
+      courses:
+        - "Major: Interdisciplinary Program in Neuroscience"      
     - institution: "Sungkyunkwan University, Seoul South Korea"
       area: "Biological Sciences and Psychology"
       studyType: "BS & BA"
       startDate: "2005-03-01"
       endDate: "2009-02-28"
+      courses:
+        - "Major: Biological Sciences and Psychology"      
   skills:
     - name: "Image processing"
       level: "Master"
@@ -59,6 +63,6 @@ resume:
     - language: "Korean"
       fluency: "native"
     - language: "English"
-      fluency: "conversational"
+      fluency: "fluent"
       
 ---
