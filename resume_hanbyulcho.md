@@ -1,8 +1,6 @@
 ---
 layout: resume
 title: Résumé
-description: >
-hide_description: false
 resume:
   basics:
     name: "Han Byul Cho, PhD"
@@ -64,13 +62,5 @@ resume:
       fluency: "native"
     - language: "English"
       fluency: "conversational"
-menu: true
-order: 3
-left_column:
- - work
- - education 
- - awards
-right_column:
- - skills
- - languages
+
 ---
