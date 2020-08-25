@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Han Byul Cho, PhD"
-    label: "Post Doctoral fellow"
+    label: "Post Doctoral Fellow"
     picture: "/assets/icons/CHB_resume.jpeg"
     email: "hanbyul.h.cho@gmail.com"
     summary: >
