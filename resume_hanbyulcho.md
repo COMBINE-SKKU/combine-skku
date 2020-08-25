@@ -1,14 +1,12 @@
 ---
 layout: resume
 title: Résumé
-
 resume:
   basics:
     name: "Han Byul Cho, PhD"
     label: "Postdoc"
     picture: "/assets/icons/CHB_resume.jpeg"
     email: "hanbyul.h.cho@gmail.com"
-    phone: "(010) "
     summary: >
       Hello. I am a neuroscientist and working as a postdoctoral fellow at Sungkyunkwan University, and IBS Center for Neuroscience Imaging Research (CNIR) in South Korea. I have studied the structural and functional brain associated mental disorders and head impacts. Currently, I am researching the neurodevelopmental disorders and affective disorders in children and adolescence with my Mentor and colleagues at COMBINE lab in Sungkyunkwan University.
     location:
