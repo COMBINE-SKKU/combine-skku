@@ -1,13 +1,11 @@
 ---
 layout: resume
 title: Résumé
-description: >
-hide_description: false
 resume:
   basics:
     name: "Han Byul Cho, PhD"
     label: "Postdoc"
-    picture: "/assets/img/CHB_resume.jpeg"
+    picture: "/assets/icons/CHB_resume.jpeg"
     email: "hanbyul.h.cho@gmail.com"
     phone: "(010) "
     summary: >
