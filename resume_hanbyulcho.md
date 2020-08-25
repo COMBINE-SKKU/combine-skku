@@ -27,27 +27,27 @@ resume:
       startDate: "2020-07-01"
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Ewha Womans University, Seoul South Korea"
+    - company: "Ewha Womans University, Seoul, South Korea"
       position: "Research Professor"
       startDate: "2017-09-01"
       endDate: "2019-09-29"
       summary: >
         Ewha Brain Institute 
-    - company: "University Of Utah, Salt Lake City South Korea"
+    - company: "University Of Utah, Salt Lake City, USA"
       position: "Post Doctoral Fellow"
       startDate: "2014-11-01"
       endDate: "2017-08-29"
       summary: >
         Brain Institute 
   education:
-    - institution: "Seoul National University, Seoul South Korea"
+    - institution: "Seoul National University, Seoul, South Korea"
       area: "Interdisciplinary Program in Neuroscience"
       studyType: "PhD"
       startDate: "2009-09-01"
       endDate: "2014-08-28"
       courses:
         - "Major: Interdisciplinary Program in Neuroscience"      
-    - institution: "Sungkyunkwan University, Seoul South Korea"
+    - institution: "Sungkyunkwan University, Seoul, South Korea"
       area: "Biological Sciences and Psychology"
       studyType: "BS & BA"
       startDate: "2005-03-01"
@@ -61,8 +61,8 @@ resume:
         - "Neuroimage processing and analyzing"
   languages:
     - language: "Korean"
-      fluency: "native"
+      fluency: "Native"
     - language: "English"
-      fluency: "fluent"
+      fluency: "Fluent"
       
 ---
