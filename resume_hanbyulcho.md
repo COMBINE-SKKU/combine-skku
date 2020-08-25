@@ -1,6 +1,8 @@
 ---
 layout: resume
 title: Résumé
+description: >
+hide_description: false
 resume:
   basics:
     name: "Han Byul Cho, PhD"
