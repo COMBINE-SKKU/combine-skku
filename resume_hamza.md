@@ -3,7 +3,7 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Muhammad Hamza Shah Nawaz, Graduate"
+    name: "Muhammad Hamza, Graduate"
     label: "Post Graduate intern"
     picture: "/assets/icons/hamza2.jpg"
     email: "hamzashahnawaz@hotmail.com"
