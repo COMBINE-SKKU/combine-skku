@@ -26,7 +26,7 @@ resume:
     - company: "Sungkyunkwan University, Suwon South Korea"
       position: "Post Doctoral Fellow"
       startDate: "2020-07-01"
-      endDate: "To Date"
+      endDate: ""
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
     - company: "Ewha Womans University, Seoul South Korea"
