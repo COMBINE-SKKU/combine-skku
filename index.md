@@ -20,6 +20,15 @@ Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 [Seok-Jun Hong, PhD]{:.heading.flip-title}<br/>
 
+Researcher<br/>
+![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
+[Kyoo Ho Cho, PhD]{:.heading.flip-title}<br/>
+
+
+Postdoc<br/>
+![Postdoc](/assets/img/CHB_resume.jpeg)<br/>
+[Han Byul Cho, PhD]{:.heading.flip-title}<br/>
+
 Intern<br/>
 ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Graduate]{:.heading.flip-title}<br/>
@@ -35,6 +44,8 @@ See our job [posting].
 IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu, Suwon, Korea, Tel.+82-31-299-4354 / Fax.+82-31-299-4506
 
 [Seok-Jun Hong, PhD]: resume.md
+[Kyoo Ho Cho, PhD]: resume_kyoohocho.md
+[Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Muhammad Hamza Shah Nawaz, Graduate]: resume_hamza.md
 
 [posting]: /job/
