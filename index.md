@@ -25,7 +25,7 @@ Researcher<br/>
 [Kyoo Ho Cho, PhD]{:.heading.flip-title}<br/>
 
 Postdoc<br/>
-![Postdoc](/assets/img/ShinwonPark_profile.jpg)<br/>
+![Postdoc](/assets/img/swpark_profile.jpeg)<br/>
 [Shinwon Park, PhD]{:.heading.flip-title}<br/>
 
 Postdoc<br/>
