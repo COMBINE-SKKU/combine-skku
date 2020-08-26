@@ -52,8 +52,6 @@ resume:
       position: "Internship"
       startDate: "2006-03-01"
       endDate: "2007-02-30"       
-  awards:
-    - title:"Platform presentation awards at the 31st International Epilepsy congress,2015"
   education:
     - institution: "Yonsei University School of Medicine, Seoul, Korea"
       area: "Neuroscience"
@@ -69,6 +67,8 @@ resume:
       endDate: "2006-02-18"
       courses:
         - "Major: Neuroscience"
+  awards:
+    - title: "Platform presentation awards at the 31st International Epilepsy congress,2015"        
   skills:
     - name: "Programming"
       level: "Master"
