@@ -47,7 +47,7 @@ resume:
       courses:
         - "Major: Computer Science"
   awards:
-    - tilte: "Stem Scholarship"
+    - title: "Stem Scholarship"
       date: "2017-08-14"
       awarder: "Sungkyunkwan University"
   skills:
