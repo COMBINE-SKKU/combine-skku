@@ -16,12 +16,9 @@ resume:
       city: "Suwon"
       countryCode: "South Korea"
     profiles:
-      - network: "Linkedin"
+      - network: "orcid"
         username: "Kyoo Ho Cho"
-        url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
-      - network: "facebook"
-        username: "Kyoo Ho Cho"
-        url: "https://www.facebook.com/profile.php?id=1848977046"        
+        url: "https://orcid.org/0000-0003-2402-7198"        
   work:
     - company: "Ehwa Womans University, Seoul, Korea"
       position: "Clinical assistant professor"
