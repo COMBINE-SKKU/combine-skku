@@ -24,6 +24,9 @@ Researcher<br/>
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
 [Kyoo Ho Cho, PhD]{:.heading.flip-title}<br/>
 
+Postdoc<br/>
+![Postdoc](/assets/img/ShinwonPark_profile.jpg)<br/>
+[Shinwon Park, PhD]{:.heading.flip-title}<br/>
 
 Postdoc<br/>
 ![Postdoc](/assets/img/CHB_resume.jpeg)<br/>
@@ -47,6 +50,7 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Kyoo Ho Cho, PhD]: resume_kyoohocho.md
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Muhammad Hamza Shah Nawaz, Graduate]: resume_hamza.md
+[Shinwon Park, PhD]: resume_swpark.md
 
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
