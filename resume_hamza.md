@@ -46,6 +46,10 @@ resume:
       endDate: "2016-03-18"
       courses:
         - "Major: Computer Science"
+  awards:
+    - tilte: "Stem Scholarship"
+      date: "2017-08-14"
+      awarder: "Sungkyunkwan University"
   skills:
     - name: "Programming"
       level: "Intermediate"
@@ -56,10 +60,10 @@ resume:
         - "Bash"
   languages:
     - language: "Urdu"
-      fluency: "Native"
+      fluency: "native"
     - language: "English"
-      fluency: "Fluent"
+      fluency: "fluent"
     - language: "Korean"
-      fluency: "Basic"
+      fluency: "basic"
       
 ---
