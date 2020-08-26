@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Muhammad Hamza, Graduate"
-    label: "Post Master intern"
+    label: "Post Master Intern"
     picture: "/assets/icons/hamza2.jpg"
     email: "hamzashahnawaz@hotmail.com"
     phone: "(010) 9319-9103"
@@ -23,14 +23,14 @@ resume:
         username: "Muhammad Hamza Shah Nawaz"
         url: "https://www.facebook.com/profile.php?id=1848977046"        
   work:
-    - company: "Sungkyunkwan University, Suwon South Korea"
+    - company: "Sungkyunkwan University, Suwon, South Korea"
       position: "Post Graduate Intern"
       startDate: "2020-07-01"
       endDate: "2020-12-30"
       summary: >
         Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
   education:
-    - institution: "Sungkyunkwan University, South Korea"
+    - institution: "Sungkyunkwan University, Suwon, South Korea"
       area: "Computer Science"
       studyType: "Masters"
       startDate: "2017-08-01"
@@ -39,7 +39,7 @@ resume:
         - "Major: Deep Learning"
         - "Supervisor: Dr. Dong Ryeol Shin"
         - "Thesis: A multi blocked image classifier for deep learning"
-    - institution: "Institute of Management Sciences, Pakistan"
+    - institution: "Institute of Management Sciences, Peshawar, Pakistan"
       area: "Computer Science"
       studyType: "BSCS"
       startDate: "2011-12-12"
@@ -56,10 +56,10 @@ resume:
         - "Bash"
   languages:
     - language: "Urdu"
-      fluency: "native"
+      fluency: "Native"
     - language: "English"
       fluency: "Fluent"
     - language: "Korean"
-      fluency: "basic"
+      fluency: "Basic"
       
 ---
