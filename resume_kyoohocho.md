@@ -18,7 +18,10 @@ resume:
     profiles:
       - network: "orcid"
         username: "Kyoo Ho Cho"
-        url: "https://orcid.org/0000-0003-2402-7198"        
+        url: "https://orcid.org/0000-0003-2402-7198"
+      - network: "facebook"
+        username: "Kyoo Ho Cho"
+        url: "https://www.facebook.com/kyooho"            
   work:
     - company: "Ehwa Womans University, Seoul, Korea"
       position: "Clinical assistant professor"
