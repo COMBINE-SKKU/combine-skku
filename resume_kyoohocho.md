@@ -23,47 +23,35 @@ resume:
         username: "Kyoo Ho Cho"
         url: "https://www.facebook.com/profile.php?id=1848977046"        
   work:
-    - company: "Department of Neurology, Ehwa Womans"
+    - company: "Ehwa Womans University, Seoul, Korea"
       position: "Clinical assistant professor"
-      startDate: "2020-07-01"
+      startDate: "2020-03-01"
       summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Department of Neurology, Ehwa Womans"
+        Department of Neurology
+    - company: "Severance Hospital,Korea"
       position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
+      startDate: "2016-02-01"
+      endDate: "2020-02-30"
       summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Department of Neurology, Ehwa Womans"
-      position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
+        Department of Neurology
+    - company: "Severance Hospital, Korea"
+      position: "Fellow, Instructor"
+      startDate: "2014-05-01"
+      endDate: "2016-02-30"
       summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Department of Neurology, Ehwa Womans"
-      position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
-      summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Department of Neurology, Ehwa Womans"
-      position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
-      summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research        
-    - company: "Department of Neurology, Ehwa Womans"
-      position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
-      summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
-    - company: "Department of Neurology, Ehwa Womans"
-      position: "Clinical assistant professor"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
-      summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research        
+        Department of Neurology
+    - company: "Chung Poong Geriatric hospital, Choong-book, Korea"
+      position: "Chief of Neurology"
+      startDate: "2011-04-01"
+      endDate: "2014-04-30"
+    - company: "Severance Hospital, Seoul, Korea"
+      position: "Neurology Resident"
+      startDate: "2007-03-01"
+      endDate: "2011-02-30"        
+    - company: "Severance Hospital, Seoul, Korea"
+      position: "Internship"
+      startDate: "2006-03-01"
+      endDate: "2007-02-30"       
   education:
     - institution: "Yonsei University School of Medicine, Seoul, Korea"
       area: "Computer Science"
