@@ -78,8 +78,8 @@ resume:
     - language: "Korean"
       fluency: "native"
     - language: "English"
-      fluency: "Fluent"
+      fluency: "fluent"
     - language: "Japnese"
-      fluency: "Fluent"
+      fluency: "fluent"
 
 ---
