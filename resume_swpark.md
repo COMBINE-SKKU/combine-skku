@@ -102,8 +102,8 @@ resume:
         - "Gannet"
   languages:
     - language: "Korean"
-      fluency: "Native"
+      fluency: "native"
     - language: "English"
-      fluency: "Natives"
+      fluency: "native"
 
 ---
