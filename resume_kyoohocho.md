@@ -56,19 +56,19 @@ resume:
     - title:"Platform presentation awards at the 31st International Epilepsy congress,2015"
   education:
     - institution: "Yonsei University School of Medicine, Seoul, Korea"
-      area: "Computer Science"
+      area: "Neuroscience"
       studyType: "Ph.D"
       startDate: "2015-03-01"
       endDate: "2020-02-22"
       courses:
-        - "Major: Deep Learning"
+        - "Major: Neuroscience"
     - institution: "Graduate School, Yonsei University, Seoul, Korea"
-      area: "Computer Science"
+      area: "Neuroscience"
       studyType: "M.D"
       startDate: "2000-03-12"
       endDate: "2006-02-18"
       courses:
-        - "Major: Computer Science"
+        - "Major: Neuroscience"
   skills:
     - name: "Programming"
       level: "Master"
