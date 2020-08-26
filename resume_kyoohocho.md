@@ -68,7 +68,9 @@ resume:
       courses:
         - "Major: Neuroscience"
   awards:
-    - title: "Platform presentation awards at the 31st International Epilepsy congress,2015"        
+    - title: "Platform presentation awards"
+      date: "2015-11-17"
+      awarder: "31st International Epilepsy congress"
   skills:
     - name: "Programming"
       level: "Master"
