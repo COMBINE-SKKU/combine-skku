@@ -53,8 +53,7 @@ resume:
       startDate: "2006-03-01"
       endDate: "2007-02-30"       
   awards:
-    - title:"Platform presentation awards at the 31st International Epilepsy congress"
-      date: "2015"
+    - title:"Platform presentation awards at the 31st International Epilepsy congress,2015"
   education:
     - institution: "Yonsei University School of Medicine, Seoul, Korea"
       area: "Computer Science"
