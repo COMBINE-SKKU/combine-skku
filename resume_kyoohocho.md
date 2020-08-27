@@ -3,11 +3,11 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Kyoo Ho Cho, PhD"
+    name: "Kyoo Ho Cho, MD, PhD"
     label: "Researcher"
     picture: "/assets/img/kyoohoocho_resume.jpeg"
     email: "zhau@naver.com"
-    phone: "82-2-3392-0381"
+    phone: "82-2-6986-5125"
     summary: >
       Hello. I am a clinical neuroscientist who graduated from Yonsei medical school and got a doctorate in philosophyin 2020. With experience of ten years as a neurologist in Severance hospital, I have a wealth of clinical experience and knowledge of research with accomplishment of a few publication. My subspeciality in neuroscience spans epilepsy, sleep disorders, and disorders of consciousness. I also have skills especially in quantitative neuroimaging, neurophysiology (intracranial EEG and MEG) and basic computer programming.I am glad to meet Combine members to collaborate with, in projects such as large-scale brain dynamic modelling of epilepsy and its comorbid condition.
     location:
@@ -59,14 +59,14 @@ resume:
       startDate: "2015-03-01"
       endDate: "2020-02-22"
       courses:
-        - "Major: Neuroscience"
+        - "Major: Medicine (Department of Neurology)"
     - institution: "Graduate School, Yonsei University, Seoul, Korea"
       area: "Neuroscience"
       studyType: "M.D"
       startDate: "2000-03-12"
       endDate: "2006-02-18"
       courses:
-        - "Major: Neuroscience"
+        - "Major: Medicine"
   awards:
     - title: "Platform presentation awards"
       date: "2015-11-17"
@@ -83,6 +83,6 @@ resume:
     - language: "English"
       fluency: "fluent"
     - language: "Japnese"
-      fluency: "fluent"
+      fluency: "basic"
 
 ---
