@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Muhammad Hamza, Graduate"
     label: "Post Master Intern"
-    picture: "/assets/icons/resume_hamza.jpeg"
+    picture: "/assets/icons/resume_hamza.jpg"
     email: "hamzashahnawaz@hotmail.com"
     phone: "(010) 9319-9103"
     summary: >
