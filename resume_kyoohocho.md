@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Kyoo Ho Cho, MD, PhD"
     label: "Researcher"
-    picture: "/assets/img/kyoohoocho_resume.jpeg"
+    picture: "/assets/icons/resume_kyoohocho.jpeg"
     email: "zhau@naver.com"
     phone: "82-2-6986-5125"
     summary: >
