@@ -11,7 +11,7 @@ resume:
     summary: >
       Hello. I am a clinical neuroscientist who graduated from Yonsei medical school and got a doctorate in philosophy in 2020. With experience of ten years as a neurologist in Severance hospital, I have a wealth of clinical experience and knowledge of research with accomplishment of a few publication. My subspeciality in neuroscience spans epilepsy, sleep disorders, and disorders of consciousness. I also have skills especially in quantitative neuroimaging, neurophysiology (intracranial EEG and MEG) and basic computer programming. I am glad to meet Combine members to collaborate with, in projects such as large-scale brain dynamic modelling of epilepsy and its comorbid condition.
     location:
-      address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
+      address: "Ewha University Seoul Hospital, 260 Gonghang-daero, Balsan 1(il)-dong, Gangseo-gu"
       city: "Seoul"
       countryCode: "South Korea"
     profiles:
