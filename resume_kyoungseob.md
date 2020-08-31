@@ -3,7 +3,7 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Kyoungseob Byeon, PhD"
+    name: "Kyoungseob Byeon, Graduate"
     label: "PhD Student"
     picture: "/assets/icons/resume_ksbyeon.jpeg"
     email: "brec4u@gmail.com"
@@ -11,7 +11,7 @@ resume:
     summary: >
       Welcome, I am a student in the Electrical, and Computer Engineering at Sungkyunkwan University (SKKU) and IBS Center for Neuroscience Imaging Research (CNIR) in Korea. I had conducted machine learning based neuroimaging application studies especially for disease such as obesity and developmental disabilities. And now, my goal is to explain different communication mechanism caused by developmental disabilities from large scale brain networks.
     location:
-      address: "Corporate Collaboration Center 85765, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
+      address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
       postalCode: "16419"
       city: "Suwon"
       countryCode: "South Korea"
