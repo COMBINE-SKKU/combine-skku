@@ -9,19 +9,25 @@ resume:
     email: "brec4u@gmail.com"
     phone: "(010) 299-4107"
     summary: >
-      Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
+      Welcome, I am a student in the Electrical, and Computer Engineering at Sungkyunkwan University (SKKU) and IBS Center for Neuroscience Imaging Research (CNIR) in Korea. I had conducted machine learning based neuroimaging application studies especially for disease such as obesity and developmental disabilities. And now, my goal is to explain different communication mechanism caused by developmental disabilities from large scale brain networks.
     location:
-      address: "IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
+      address: "Corporate Collaboration Center 85765, Sungkyunkwan University, Seobu-ro 2066, Jangan-gu"
       postalCode: "16419"
       city: "Suwon"
       countryCode: "South Korea"
     profiles:
+      - network: "Twitter"
+        username: "Kyoungseob Byeon"
+        url: "https://twitter.com/KyoungseobB"     
       - network: "Linkedin"
-        username: "Muhammad Hamza Shah Nawaz"
-        url: "https://www.linkedin.com/in/muhammad-hamza-shah-nawaz-81657660/"
+        username: "Kyoungseob Byeon"
+        url: "https://www.linkedin.com/in/kyoungseob-byeon-2bb25b122/"
       - network: "facebook"
-        username: "Muhammad Hamza Shah Nawaz"
-        url: "https://www.facebook.com/profile.php?id=1848977046"        
+        username: "ResearchGate"
+        url: "https://www.researchgate.net/profile/Kyoungseob_Byeon" 
+      - network: "GoogleScholar"
+        username: "Kyoungseob Byeon"
+        url: "https://scholar.google.co.kr/citations?user=ZwmOC9cAAAAJ&hl=en&oi=ao"         
   work:
     - company: "Sungkyunkwan University, Suwon, South Korea"
       position: "Post Master Intern"
