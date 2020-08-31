@@ -3,11 +3,11 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Muhammad Hamza, Graduate"
-    label: "Post Master Intern"
-    picture: "/assets/icons/resume_hamza.jpg"
-    email: "hamzashahnawaz@hotmail.com"
-    phone: "(010) 9319-9103"
+    name: "Kyoungseob Byeon, Graduate"
+    label: "PhD Student"
+    picture: "/assets/icons/resume_ksbyeon.jpeg"
+    email: "brec4u@gmail.com"
+    phone: "(010) 299-4107"
     summary: >
       Hi, I am graduated with a Master's degree in computer science majoring in image classification in Deep Learning. I have joined combine lab at Center for Neuroscience Imaging Research (CNIR) for post graduate internship in South Korea.
     location:
