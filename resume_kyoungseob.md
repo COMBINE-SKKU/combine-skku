@@ -29,12 +29,18 @@ resume:
         username: "Kyoungseob Byeon"
         url: "https://scholar.google.co.kr/citations?user=ZwmOC9cAAAAJ&hl=en&oi=ao"         
   work:
-    - company: "Sungkyunkwan University, Suwon, South Korea"
-      position: "Post Master Intern"
-      startDate: "2020-07-01"
-      endDate: "2020-12-30"
+    - company: "Max Planck Institute for Empirical Aesthetics, Frankfurt Germany"
+      position: "Invited researcher"
+      startDate: "2020-01-01"
+      endDate: "2020-02-29"
       summary: >
-        Department of Global Biomedical Engineering and IBS Center for Neuroscience Imaging Research
+        Invited researcher
+    - company: "Max Planck Institute for Empirical Aesthetics, Frankfurt Germany"
+      position: "Invited researcher"
+      startDate: "2019-01-01"
+      endDate: "2019-02-29"
+      summary: >
+        Invited researcher        
   education:
     - institution: "Sungkyunkwan University, Suwon, South Korea"
       area: "Computer Science"
