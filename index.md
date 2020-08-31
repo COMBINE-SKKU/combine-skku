@@ -55,7 +55,7 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Muhammad Hamza Shah Nawaz, Graduate]: resume_hamza.md
 [Shinwon Park, PhD]: resume_swpark.md
-[Kyoungseob Byeon, Graduate]: resume_ksbyeon.md
+[Kyoungseob Byeon, Graduate]: resume_kyoungseob.md
 
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
