@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Kyoungseob Byeon, Graduate"
     label: "PhD Student"
-    picture: "/assets/icons/resume_ksbyeon.jpeg"
+    picture: "/assets/icons/resume_ksbyeon.jpg"
     email: "brec4u@gmail.com"
     phone: "(010) 299-4107"
     summary: >
