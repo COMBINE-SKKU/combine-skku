@@ -24,7 +24,7 @@ resume:
         url: "https://www.facebook.com/profile.php?id=1848977046"        
   work:
     - company: "Sungkyunkwan University, Suwon, South Korea"
-      position: "Post Graduate Intern"
+      position: "Post Master Intern"
       startDate: "2020-07-01"
       endDate: "2020-12-30"
       summary: >
