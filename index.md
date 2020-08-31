@@ -32,6 +32,10 @@ Postdoc<br/>
 ![Postdoc](/assets/img/CHB_resume.jpeg)<br/>
 [Han Byul Cho, PhD]{:.heading.flip-title}<br/>
 
+PhD<br/>
+![PhD](/assets/img/ksbyeon_profile.jpg)<br/>
+[Kyoungseob Byeon, Graduate]{:.heading.flip-title}<br/>
+
 Intern<br/>
 ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Graduate]{:.heading.flip-title}<br/>
@@ -51,6 +55,7 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Muhammad Hamza Shah Nawaz, Graduate]: resume_hamza.md
 [Shinwon Park, PhD]: resume_swpark.md
+[Kyoungseob Byeon, Graduate]: resume_ksbyeon.md
 
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
