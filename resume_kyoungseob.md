@@ -52,9 +52,12 @@ resume:
       startDate: "2012-03-01"
       endDate: "2018-02-28"
   awards:
-    - title: "Stem Scholarship"
-      date: "2017-08-14"
-      awarder: "Sungkyunkwan University"
+    - title: "Fellowship for graduate research training"
+      date: "2020-06-01"
+      awarder: "Research Foundation"
+    - title: "Best Oral Presentation award"
+      date: "2018-11-01"
+      awarder: "Korean Society of Human Brain Mapping"     
   skills:
     - name: "Programming"
       level: "Intermediate"
