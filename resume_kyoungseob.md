@@ -46,17 +46,11 @@ resume:
       area: "Electronic, Electrical, and Computer Engineering"
       studyType: "PhD"
       startDate: "2018-03-01"
-      courses:
-        - "Major: Deep Learning"
-        - "Supervisor: Dr. Dong Ryeol Shin"
-        - "Thesis: A multi blocked image classifier for deep learning"
-    - institution: "Institute of Management Sciences, Peshawar, Pakistan"
-      area: "Computer Science"
-      studyType: "BSCS"
-      startDate: "2011-12-12"
-      endDate: "2016-03-18"
-      courses:
-        - "Major: Computer Science"
+    - institution: "Sungkyunkwan University, Suwon, South Korea"
+      area: "Electronic and Electrical Engineering"
+      studyType: "BSc"
+      startDate: "2012-03-01"
+      endDate: "2018-02-28"
   awards:
     - title: "Stem Scholarship"
       date: "2017-08-14"
