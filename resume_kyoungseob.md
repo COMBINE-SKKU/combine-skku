@@ -43,9 +43,9 @@ resume:
         Invited researcher        
   education:
     - institution: "Sungkyunkwan University, Suwon, South Korea"
-      area: "Computer Science"
-      studyType: "Masters"
-      startDate: "2017-08-01"
+      area: "Electronic, Electrical, and Computer Engineering"
+      studyType: "PhD"
+      startDate: "2018-03-01"
       endDate: "2020-03-22"
       courses:
         - "Major: Deep Learning"
