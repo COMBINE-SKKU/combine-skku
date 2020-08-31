@@ -46,7 +46,6 @@ resume:
       area: "Electronic, Electrical, and Computer Engineering"
       studyType: "PhD"
       startDate: "2018-03-01"
-      endDate: "2020-03-22"
       courses:
         - "Major: Deep Learning"
         - "Supervisor: Dr. Dong Ryeol Shin"
