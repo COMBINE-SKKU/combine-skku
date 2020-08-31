@@ -60,18 +60,23 @@ resume:
       awarder: "Korean Society of Human Brain Mapping"     
   skills:
     - name: "Programming"
-      level: "Intermediate"
+      level: "Master"
       keywords:
         - "Python"
-        - "Java"
-        - "PHP"
+        - "MATLAB"
         - "Bash"
+        - "R"
+        - "Pytorch"
+    - name: "Data Analysis"
+      keywords:
+        - "Machine learning"
+        - "Network modeling"
+        - "Deep learning"
+        - "Time-series analysis"
   languages:
-    - language: "Urdu"
+    - language: "Korean"
       fluency: "native"
     - language: "English"
       fluency: "fluent"
-    - language: "Korean"
-      fluency: "basic"
       
 ---
