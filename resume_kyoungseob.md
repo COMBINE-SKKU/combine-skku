@@ -68,6 +68,7 @@ resume:
         - "R"
         - "Pytorch"
     - name: "Data Analysis"
+      level: "Master"
       keywords:
         - "Machine learning"
         - "Network modeling"
