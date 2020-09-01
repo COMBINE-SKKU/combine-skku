@@ -47,7 +47,7 @@ author:
   twitter:             hong_seok_jun
 
 # Add links to the sidebar.
-menu: |
+menu:
   - title:             About
     url:               /
   - title:             News
