@@ -1,6 +1,7 @@
 ---
 layout: resume
 title: Résumé
+description: >
 resume:
   basics:
     name: "Muhammad Hamza, Graduate"
