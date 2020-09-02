@@ -18,7 +18,7 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 ## People
 Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
-[Seok-Jun Hong, PhD]{:.heading.flip-title}<br/>
+[Seok-Jun Hong, PhD]{:.heading.flip-title}
 
 Researcher<br/>
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
