@@ -20,7 +20,7 @@ Principal Investigator<br/>
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 [Seok-Jun Hong, PhD]{:.heading.flip-title}
 
-Researcher<br/>
+Researcher
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
 [Kyoo Ho Cho, MD, PhD]{:.heading.flip-title}<br/>
 
