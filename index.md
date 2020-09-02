@@ -22,7 +22,7 @@ Principal Investigator<br/>
 
 Researcher<br/>
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
-[Kyoo Ho Cho, MD, PhD]{:.heading.flip-title}<br/>
+[Kyoo Ho Cho, MD PhD]{:.heading.flip-title}<br/>
 
 Postdoc<br/>
 ![Postdoc](/assets/img/swpark_profile.jpeg)<br/>
@@ -33,7 +33,7 @@ Postdoc<br/>
 [Han Byul Cho, PhD]{:.heading.flip-title}<br/>
 
 PhD<br/>
-![PhD](/assets/img/ksbyeon_profile.jpg)<br/>
+![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
 [Kyoungseob Byeon, Bachelors]{:.heading.flip-title}<br/>
 
 Intern<br/>
