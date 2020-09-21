@@ -22,7 +22,7 @@ Principal Investigator<br/>
 
 Researcher<br/>
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
-[Kyoo Ho Cho, MD PhD]{:.heading.flip-title}<br/>
+[Kyoo Ho Cho, MD, PhD]{:.heading.flip-title}<br/>
 
 Postdoc<br/>
 ![Postdoc](/assets/img/swpark_profile.jpeg)<br/>
