@@ -5,7 +5,7 @@ hide_description: true
 ---
 
 # Welcome to the COMBINE Lab!
-![labphoto](/assets/img/combine_lab_photo.jpg)<br/>
+![labphoto](/assets/img/combine_lab_photo2022.JPG)<br/>
 {:.no_toc}
 0. Introduction
 1. People
@@ -36,9 +36,13 @@ PhD<br/>
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
 [Kyoungseob Byeon, Bachelors]{:.heading.flip-title}<br/>
 
-Intern<br/>
+MS<br/>
+![MS Course](/assets/img/shhong_profile.jpg)<br/>
+[Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
+
+<!-- Intern<br/>
 ![Intern](/assets/img/hamza2.jpg)<br/>
-[Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/>
+[Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/> -->
 
 <h2>We are hiring now!</h2>
 See our job [posting].
@@ -55,7 +59,8 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Shinwon Park, PhD]: resume_swpark.md
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
-[Muhammad Hamza Shah Nawaz, Masters]: resume_hamza.md
+[Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
+<!-- [Muhammad Hamza Shah Nawaz, Masters]: resume_hamza.md -->
 
 [posting]: /job/
 [CNIR]: https://cnir.ibs.re.kr/html/cnir_en/
