@@ -3,7 +3,7 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Sunghyoung Hong, Undergraduate"
+    name: "Sunghyoung Hong, Graduate"
     label: "Master's Student"
     picture: "/assets/icons/resume_shhong.jpg"
     email: "komabso@g.skku.edu"
