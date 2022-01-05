@@ -40,8 +40,10 @@ MS<br/>
 ![MS Course](/assets/img/shhong_profile.jpg)<br/>
 [Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
 
-<!-- Intern<br/>
-![Intern](/assets/img/hamza2.jpg)<br/>
+Intern<br/>
+![Intern](/assets/img/jiAn_profile.jpg)<br/>
+[Yejin An, Bachelors]{:.heading.flip-title}<br/>
+<!-- ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/> -->
 
 <h2>We are hiring now!</h2>
@@ -60,6 +62,7 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
 [Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
+[Yejin An, Bachelors]: resume_yejin.md
 <!-- [Muhammad Hamza Shah Nawaz, Masters]: resume_hamza.md -->
 
 [posting]: /job/
