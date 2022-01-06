@@ -33,7 +33,7 @@ Postdoc<br/>
 [Han Byul Cho, PhD]{:.heading.flip-title}<br/>
 
 PhD<br/>
-![PhD Course](/assets/img/younghyun_profile.JPG)<br/>
+![PhD Course](/assets/img/younghyun_profile.jpg)<br/>
 [Younghyun Oh, Masters]{:.heading.flip-title}<br/>
 
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
