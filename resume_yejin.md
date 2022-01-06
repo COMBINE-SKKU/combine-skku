@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Yejin Ann, "
     label: "Bachelor's degree"
-    picture: "/assets/icons/resume_jiAn.jpg"
+    picture: "/assets/icons/resume_yejin.jpg"
     email: "yejinn.ann@gmail.com"
     summary: >
       Welcome, I am a research assistant in the Department of Global Biomedical Engineering at Sungkyunkwan University. I am interested in psychiatric and brain diseases, especially autism and anxiety. I aim to find out the unknown causes or biomarkers of diseases and contribute to the field of neuroscience.
