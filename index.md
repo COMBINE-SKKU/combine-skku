@@ -33,7 +33,7 @@ Postdoc<br/>
 [Han Byul Cho, PhD]{:.heading.flip-title}<br/>
 
 PhD<br/>
-![PhD Course](/assets/img/yhOh_profile.JPG)<br/>
+![PhD Course](/assets/img/younghyun_profile.JPG)<br/>
 [Younghyun Oh, Masters]{:.heading.flip-title}<br/>
 
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
@@ -43,11 +43,11 @@ MS<br/>
 ![MS Course](/assets/img/shhong_profile.jpg)<br/>
 [Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
 
-![MS Course](/assets/img/jungmin_profile.jpg)<br/>
+![MS Course](/assets/img/jmlee_profile.jpg)<br/>
 [Jungmin Lee, Bachelors]{:.heading.flip-title}<br/>
 
 Intern<br/>
-![Intern](/assets/img/jiAn_profile.jpg)<br/>
+![Intern](/assets/img/yejin_profile.jpg)<br/>
 [Yejin An, Bachelors]{:.heading.flip-title}<br/>
 <!-- ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/> -->
