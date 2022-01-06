@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Jungmin Lee, Graduate"
     label: "Master's Student"
-    picture: "/assets/icons/resume_jungmin.jpg"
+    picture: "/assets/icons/resume_jmlee.jpg"
     email: "jungmin.lee@skku.edu"
     summary: >
       Hello. I’m a student in the Department of Global Biomedical Engineering at Sungkyunkwan University (SKKU). I am interested in understanding human cognition and intelligence. To this end, I aim to study how the brain predicts and processes errors as sensory signals enter. I am also interested in reinforcement learning and machine learning, hence I want to proceed with these fields in the future.
