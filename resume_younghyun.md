@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Younghyun Oh, PhD"
     label: "Phd Student"
-    picture: "/assets/icons/resume_younghyun.JPG"
+    picture: "/assets/icons/resume_younghyun.jpg"
     email: "bio7420@skku.edu"
     summary: >
       Hello. I’m a phd student working at the intersection of cognitive neuroscience and systems neuroscience. I’m interested in understanding the intelligence. To that end, I aim to understand the human brain organization using multimodal method and apply the organizational structure of the human brain to build an artificial neural network. My other interests include, consciousness, life, complex systems, and free energy principle.
