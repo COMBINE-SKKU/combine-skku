@@ -2,8 +2,8 @@
 layout: project
 title: Differences in subcortico-cortical interactions identified from connectome and microcircuit models in autism
 date: 13 Apr 2021
-image: /assets/img/projects/2021_ASD_connectome_subcortico.PNG
-screenshot: /assets/img/projects/2021_ASD_connectome_subcortico.PNG
+image: /assets/img/projects/2021_ASD_subcortico_bypark.PNG
+screenshot: /assets/img/projects/2021_ASD_subcortico_bypark.PNG
 links:
   - title: Journal
     url: https://www.nature.com/articles/s41467-021-21732-0
