@@ -2,8 +2,8 @@
 layout: project
 title: Atypical Integration of Sensory-to-Transmodal Functional Systems Mediates Symptom Severity in Autism
 date: 20 Aug 2021
-image: /assets/img/projects/2021_ASD_transmodalsystem_swpark.png
-screenshot: /assets/img/projects/2021_ASD_transmodalsystem_swpark.png
+image: /assets/img/projects/2021_ASD_transmodal_swpark.png
+screenshot: /assets/img/projects/2021_ASD_transmodal_swpark.png
 links:
   - title: Journal
     url: https://www.frontiersin.org/articles/10.3389/fpsyt.2021.699813/full
