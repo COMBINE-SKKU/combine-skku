@@ -2,8 +2,8 @@
 layout: project
 title: A convergent structure-function substrate of cognitive imbalances in autism
 date: 14 Jan 2021
-image: /assets/img/projects/2021_ASD_structural_fuctuion.png
-screenshot: /assets/img/projects/2021_ASD_structural_fuctuion.png
+image: /assets/img/projects/2021_ASD_convergent_sjhong.png
+screenshot: /assets/img/projects/2021_ASD_convergent_sjhong.png
 links:
   - title: Journal
     url: https://www.biorxiv.org/content/10.1101/2021.01.14.426284v1.abstract
