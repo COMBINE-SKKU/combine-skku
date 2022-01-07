@@ -2,8 +2,8 @@
 layout: project
 title: Mapping functional gradients of the striatal circuit using simultaneous microelectric stimulation and ultrahigh-field fMRI in non-human primates
 date: 01 Aug 2021
-image: /assets/img/projects/2021_NHP_functional_gradient_mjhan.png
-screenshot: /assets/img/projects/2021_NHP_functional_gradient_mjhan.png
+image: /assets/img/projects/2021_NHP_functional_mjhan.png
+screenshot: /assets/img/projects/2021_NHP_functional_mjhan.png
 links:
   - title: Journal
     url: https://www.sciencedirect.com/science/article/pii/S1053811921003542#!
