@@ -39,6 +39,9 @@ PhD<br/>
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
 [Kyoungseob Byeon, Bachelors]{:.heading.flip-title}<br/>
 
+![PhD Course](/assets/img/jongeun_profile.jpg)<br/>
+[Jongeun Lee, Bachelors]{:.heading.flip-title}<br/>
+
 MS<br/>
 ![MS Course](/assets/img/shhong_profile.jpg)<br/>
 [Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
@@ -68,6 +71,7 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Younghyun Oh, Masters]: resume_younghyun.md
 [Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
+[Jongeun Lee, Bachelors]: resume_jongeun.md
 [Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
 [Jungmin Lee, Bachelors]: resume_jungmin.md
 [Yejin An, Bachelors]: resume_yejin.md
