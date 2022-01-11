@@ -3,7 +3,7 @@ layout: resume
 title: Résumé
 resume:
   basics:
-    name: "Yejin Ann, "
+    name: "Yejin Ann, Graduate"
     label: "Bachelor's degree"
     picture: "/assets/icons/resume_yejin.jpg"
     email: "yejinn.ann@gmail.com"
