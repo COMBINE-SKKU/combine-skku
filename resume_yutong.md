@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Yutong Bai, Graduate"
-    label: "Phd student"
+    label: "PhD student"
     picture: "/assets/icons/resume_yutong.jpg"
     email: "yutongbai@g.skku.edu"
     summary: >
