@@ -4,7 +4,7 @@ title: Résumé
 resume:
   basics:
     name: "Younghyun Oh, PhD"
-    label: "Phd Student"
+    label: "PhD Student"
     picture: "/assets/icons/resume_younghyun.jpg"
     email: "bio7420@skku.edu"
     summary: >
