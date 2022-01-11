@@ -36,6 +36,9 @@ PhD<br/>
 ![PhD Course](/assets/img/younghyun_profile.jpg)<br/>
 [Younghyun Oh, Masters]{:.heading.flip-title}<br/>
 
+![PhD Course](/assets/img/yutong_profile.png)<br/>
+[Yutong Bai, Masters]{:.heading.flip-title}<br/>
+
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
 [Kyoungseob Byeon, Bachelors]{:.heading.flip-title}<br/>
 
@@ -43,15 +46,23 @@ PhD<br/>
 [Jongeun Lee, Bachelors]{:.heading.flip-title}<br/>
 
 MS<br/>
-![MS Course](/assets/img/shhong_profile.jpg)<br/>
+![MS Course](/assets/img/sunghyoung_profile.png)<br/>
 [Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
 
 ![MS Course](/assets/img/jmlee_profile.jpg)<br/>
 [Jungmin Lee, Bachelors]{:.heading.flip-title}<br/>
 
 Intern<br/>
+![Intern](/assets/img/sohyeong_profile.png)<br/>
+[Sohyeong Kim, Bachelors]{:.heading.flip-title}<br/>
+
+![Intern](/assets/img/hyunhoe_profile.png)<br/>
+[Hyunhoe An, Bachelors]{:.heading.flip-title}<br/>
+
 ![Intern](/assets/img/yejin_profile.jpg)<br/>
 [Yejin An, Bachelors]{:.heading.flip-title}<br/>
+
+
 <!-- ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/> -->
 
@@ -70,10 +81,13 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Shinwon Park, PhD]: resume_swpark.md
 [Han Byul Cho, PhD]: resume_hanbyulcho.md
 [Younghyun Oh, Masters]: resume_younghyun.md
+[Yutong Bai, Masters]: resume_yutong.md
 [Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
 [Jongeun Lee, Bachelors]: resume_jongeun.md
 [Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
 [Jungmin Lee, Bachelors]: resume_jungmin.md
+[Sohyeong Kim, Bachelors]: resume_sohyeong.md
+[Hyunhoe An, Bachelors]: resume_hyunhoe.md
 [Yejin An, Bachelors]: resume_yejin.md
 <!-- [Muhammad Hamza Shah Nawaz, Masters]: resume_hamza.md -->
 
