@@ -30,10 +30,12 @@ resume:
   education:
     - institution: "Yonsei University, Seoul, South Korea"
       area: "Mechanical Engineering"
-      minor: "Psychology"
       studyType: "BSc"
       startDate: "2014-02-27"
       endDate: "2020-08-28"
+      courses:
+        - "Major: Mechanical Engineering"
+        - "Minor: Psychology"
   awards:
     - title: "Nano-IMP 2018 Best Poster Award"
       date: "2018-02-02"
