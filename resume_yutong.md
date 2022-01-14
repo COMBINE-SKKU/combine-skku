@@ -20,11 +20,15 @@ resume:
       studyType: "MSc"
       startDate: "2019-09-01"
       endDate: "2021-08-01"  
+      courses:
+        - "Major: Master of medicine"
     - institution: "Shandong First Medical University, Shandong, China"
       area: "Clinical medicine"
       studyType: "BSc"
       startDate: "2013-09-01"
       endDate: "2019-07-01"  
+      courses:
+        - "Major: Clinical medicine"
   languages:
     - language: "Chinese"
       fluency: "native"
