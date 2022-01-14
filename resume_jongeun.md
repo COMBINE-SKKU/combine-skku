@@ -23,11 +23,15 @@ resume:
       area: "Electrical, and Computer Engineering"
       studyType: "PhD"
       startDate: "2020-03-01"
+      courses:
+        - "Major: Electrical, and Computer Engineering"
     - institution: "Sungkyunkwan University, Suwon, South Korea"
       area: "Electronic and Electrical Engineering"
       studyType: "BSc"
       startDate: "2013-03-01"
       endDate: "2020-02-28"
+      courses:
+        - "Major: Electronic and Electrical Engineering"
   skills:
     - name: "Programming"
       level: "Master"
