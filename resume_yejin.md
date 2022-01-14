@@ -19,7 +19,9 @@ resume:
       area: "Psychology"
       studyType: "BA"
       startDate: "2018-03-02"
-      endDate: "2022-02-01"  
+      endDate: "2022-02-01"
+      courses:
+        - "Major: Psychology"
   skills:
     - name: "Programming"
       keywords:
