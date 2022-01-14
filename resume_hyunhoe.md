@@ -19,11 +19,11 @@ resume:
       position: "researcher"
       startDate: "2020-03-09"
       endDate: "2021-09-30"
-      summary: >
-         Eom et al., "Gradual decorrelation of CA3 ensembles associated with contextual discrimination learning is impaired by Kv1.2 insufficiency", Hippocampus, 2021.
+      courses: >
+         - "Publication: Eom et al., "Gradual decorrelation of CA3 ensembles associated with contextual discrimination learning is impaired by Kv1.2 insufficiency", Hippocampus, 2021."
     - company: "Nano Fabrication and Micro Optics National Research Laboratory, Yonsei University, Seoul, South Korea"
       position: "research intern"
-      startDate: "2014-07-01"
+      startDate: "2017-07-01"
       endDate: "2019-07-31"
       summary: >
           
@@ -35,7 +35,7 @@ resume:
       startDate: "2014-02-27"
       endDate: "2020-08-28"
   awards:
-    - title: "Nano-IMP 2018 Poster presentation & Best Poster Award"
+    - title: "Nano-IMP 2018 Best Poster Award"
       date: "2018-02-02"
       awarder: "Nano Fabrication and Micro Optics National Research Laboratory"
   conferences:
