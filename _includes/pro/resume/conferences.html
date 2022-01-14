@@ -3,13 +3,29 @@
   <div class="npb">
   <h2 id="conferences" class="h3 faded hr">
     {{ strings.resume.conferences | default:"Conferences" }}
-    <span class="symbol {{ icons.conferences | default:'icon-quotes-right' }}"></span>
+    <span class="symbol {{ icons.conferences | default:'icon-trophy' }}"></span>
   </h2>
-  {% for ref in resume.conferences %}
-    <blockquote class="conference">
-      <p>{{ ref.conference }}</p>
-      <footer>— <cite>{{ ref.name }}</cite></footer>
-    </blockquote>
+  {% for awa in resume.conferences %}
+  <section>
+    <header class="{% unless forloop.first %}mt4{% endunless %}">
+      {% if awa.date.size > 0 %}
+        <p class="faded">
+          <time datetime="{{ awa.date | date_to_xmlschema }}">{{ awa.date | date:from_to_format }}</time>
+        </p>
+      {% endif %}
+      <h3 class="h4 faded" property="conferences">
+        {% capture title %}<span class="bc">{{ awa.title }}</span>{% endcapture %}
+        {% capture conferences %}<span class="bc">{{ awa.description }}</span>{% endcapture %}
+        {{ strings.resume.conferences_title
+          | default:"<!--title--> from <!--description-->"
+          | replace:"<!--title-->", title
+          | replace:"<!--description-->", description
+        }}
+      </h3>
+    </header>
+
+    {% include components/message.html text=awa.summary alt="" %}
+  </section>
   {% if forloop.first %}</div>{% endif %}
   {% endfor %}
 </section>
