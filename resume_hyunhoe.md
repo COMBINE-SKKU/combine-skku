@@ -15,7 +15,7 @@ resume:
       city: "Suwon"
       countryCode: "South Korea"
   work:
-    - company: "Cellphysiology laboratory, Seoul National University, Seoul, South Korea"
+    - company: "Cell physiology laboratory, Seoul National University, Seoul, South Korea"
       position: "researcher"
       startDate: "2020-03-09"
       endDate: "2021-09-30"
@@ -42,11 +42,14 @@ resume:
       awarder: "Nano Fabrication and Micro Optics National Research Laboratory"
   conferences:
     - name: "NANOPIA 2018 Poster presentation"
-      summary: Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction.
+      courses: >
+      Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction.
     - name: "Nano-IMP 2018 Poster presentation"
-      summary: Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction.
+      courses: >
+      Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction.
     - name: "ICMTE 2014 Poster presentation"
-      summary: Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device.
+      courses: >
+      Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device.
   languages:
     - language: "Korean"
       fluency: "native"
