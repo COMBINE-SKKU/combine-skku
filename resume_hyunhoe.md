@@ -42,11 +42,11 @@ resume:
       awarder: "Nano-Imprint-Molding-Forum"
   conferences:
     - title: "NANOPIA 2018 Poster presentation"
-    - description: "Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction"
+      summary: "Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction"
     - title: "Nano-IMP 2018 Poster presentation"
-    - description: "Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction"
+      summary: "Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction"
     - title: "ICMTE 2014 Poster presentation"
-    - description: "Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device"
+      summary: "Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device"
   languages:
     - language: "Korean"
       fluency: "native"
