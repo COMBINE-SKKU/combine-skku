@@ -15,11 +15,11 @@
       {% endif %}
       <h3 class="h4 faded" property="conferences">
         {% capture title %}<span class="bc">{{ awa.title }}</span>{% endcapture %}
-        {% capture conferences %}<span class="bc">{{ awa.description }}</span>{% endcapture %}
+        {% capture summary %}<span class="bc">{{ awa.summary }}</span>{% endcapture %}
         {{ strings.resume.conferences_title
-          | default:"<!--title-->", "<!--description-->"
+          | default:"<!--title-->, <!--summary-->"
           | replace:"<!--title-->", title
-          | replace:"<!--description-->", description
+          | replace:"<!--summary-->", summary
         }}
       </h3>
     </header>
