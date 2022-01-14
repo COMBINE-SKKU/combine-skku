@@ -24,7 +24,7 @@ resume:
       startDate: "2019-03-01"
       endDate: "2020-02-01"
       summary: >
-        Patients' data analyst
+        Patients' data collecting and analyzing
     - company: "Asan Medical Center"
       position: "Summer Research Intern"
       startDate: "2018-07-01"
@@ -35,12 +35,16 @@ resume:
     - institution: "Sungkyunkwan University, Suwon, South Korea"
       area: "Global Biomedical Engineering"
       studyType: "MSc"
-      startDate: "2022-02-16"   
+      startDate: "2022-02-16" 
+      courses:
+        - "Major: Global Biomedical Engineering"
     - institution: "Binghamton University, New York, United States of America"
       area: "Integrative Neuroscience"
       studyType: "BSc"
       startDate: "2014-09-01"
       endDate: "2018-12-23"
+      courses:
+        - "Major: Integrative Neuroscience"
   skills:
     - name: "Programming"
       keywords:
