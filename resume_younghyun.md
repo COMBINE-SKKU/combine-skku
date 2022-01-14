@@ -23,12 +23,18 @@ resume:
       area: "Neuroscience"
       studyType: "MSc"
       startDate: "2018-10-01"
-      endDate: "2021-05-11"      
+      endDate: "2021-05-11"    
+      courses:
+        - "Major: Neuroscience"
+        - "Supervisor: Johannes Schultz"
+        - "Thesis: Neural mechanisms of the perception of aliveness across stimulus classes and visual characteristics"
     - institution: "Chungnam National University, Daejeon, South Korea"
       area: "Biology"
       studyType: "BSc"
       startDate: "2012-03-02"
       endDate: "2018-02-18"
+      courses:
+        - "Major: Biology"
 
   skills:
     - name: "Image processing"
