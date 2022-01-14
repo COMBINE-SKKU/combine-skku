@@ -19,8 +19,8 @@ resume:
       position: "researcher"
       startDate: "2020-03-09"
       endDate: "2021-09-30"
-      courses: >
-         - "Publication: Eom et al., "Gradual decorrelation of CA3 ensembles associated with contextual discrimination learning is impaired by Kv1.2 insufficiency", Hippocampus, 2021."
+      Publication:
+         - Eom et al., "Gradual decorrelation of CA3 ensembles associated with contextual discrimination learning is impaired by Kv1.2 insufficiency", Hippocampus, 2021.
     - company: "Nano Fabrication and Micro Optics National Research Laboratory, Yonsei University, Seoul, South Korea"
       position: "research intern"
       startDate: "2017-07-01"
@@ -39,17 +39,13 @@ resume:
   awards:
     - title: "Nano-IMP 2018 Best Poster Award"
       date: "2018-02-02"
-      awarder: "Nano Fabrication and Micro Optics National Research Laboratory"
   conferences:
     - name: "NANOPIA 2018 Poster presentation"
-      courses: 
-        - Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction.
+      description: "Design and fabrication of normal incident surface plasmon resonance sensor using nano-imprinting for detecting cardiac troponin T, biomarker for myocardial infarction"
     - name: "Nano-IMP 2018 Poster presentation"
-      courses: 
-        - Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction.
+      description: "Design of a surface plasmon resonance sensor for label-free detection of cardiac troponin T in acute myocardial infarction"
     - name: "ICMTE 2014 Poster presentation"
-      courses: 
-        - Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device.
+      description: "Detection of bio-molecular interactions by multi-scale microwell arrays integrated with microfluidic device"
   languages:
     - language: "Korean"
       fluency: "native"
