@@ -17,7 +17,7 @@
         {% capture title %}<span class="bc">{{ awa.title }}</span>{% endcapture %}
         {% capture conferences %}<span class="bc">{{ awa.description }}</span>{% endcapture %}
         {{ strings.resume.conferences_title
-          | default:"<!--title--> from <!--description-->"
+          | default:"<!--title--> and <!--description-->"
           | replace:"<!--title-->", title
           | replace:"<!--description-->", description
         }}
