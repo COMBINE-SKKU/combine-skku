@@ -20,6 +20,8 @@ resume:
       area: "Global Biomedical Engineering"
       studyType: "MS"
       startDate: "2022-02-16"
+      courses:
+        - "Major: Global Biomedical Engineering"
     - institution: "Sungkyunkwan University, Suwon, South Korea"
       area: "Global Biomedical Engineering"
       studyType: "BSc"
