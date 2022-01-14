@@ -19,6 +19,8 @@ resume:
       area: "Global Biomedical Engineering"
       studyType: "BSc"
       startDate: "2019-02-01"
+      courses:
+        - "Major: Global Biomedical Engineering"
   skills:
     - name: "Programming"
       keywords:
