@@ -1,0 +1,16 @@
+{% if resume.conferences.size > 0 %}
+<section>
+  <div class="npb">
+  <h2 id="conferences" class="h3 faded hr">
+    {{ strings.resume.conferences | default:"Conferences" }}
+    <span class="symbol {{ icons.conferences | default:'icon-quotes-right' }}"></span>
+  </h2>
+  {% for ref in resume.conferences %}
+    <blockquote class="conference">
+      <p>{{ ref.conference }}</p>
+      <footer>— <cite>{{ ref.name }}</cite></footer>
+    </blockquote>
+  {% if forloop.first %}</div>{% endif %}
+  {% endfor %}
+</section>
+{% endif %}
