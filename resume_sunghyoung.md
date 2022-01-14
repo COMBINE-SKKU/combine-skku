@@ -24,7 +24,9 @@ resume:
       area: "Global Biomedical Engineering"
       studyType: "BSc"
       startDate: "2016-03-02"
-      endDate: "2022-02-16"  
+      endDate: "2022-02-16"
+      courses:
+        - "Major: Global Biomedical Engineering"
   skills:
     - name: "Programming"
       keywords:
