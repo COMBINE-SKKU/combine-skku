@@ -21,9 +21,9 @@ resume:
       - network: "Google Scholar"
         username: "Jungmin Lee"
         url: "https://scholar.google.com/citations?user=cRn6EvcAAAAJ&hl=ko&authuser=2"
-      - network: "ORCiD"
+<!--       - network: "ORCiD"
         username: "Jungmin Lee"
-        url: "https://orcid.org/0000-0001-6449-2217"
+        url: "https://orcid.org/0000-0001-6449-2217" -->
   work:
     - company: "Asan Medical Center"
       position: "Researcher"
