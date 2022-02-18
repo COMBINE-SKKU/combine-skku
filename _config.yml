@@ -52,6 +52,8 @@ menu:
     url:               /
   - title:             News
     url:               /news/
+  - title:             People
+    url:               /people/
   - title:             Publication
     url:               /projects/
   - title:             Job
