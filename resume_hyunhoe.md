@@ -14,6 +14,10 @@ resume:
       postalCode: "16419"
       city: "Suwon"
       countryCode: "South Korea"
+    profiles:
+      - network: "Google Scholar"
+        username: "Hyunhoe An"
+        url: "https://scholar.google.co.kr/citations?hl=ko&authuser=1&user=7l61fOIAAAAJ"
   work:
     - company: "Cell physiology laboratory, Seoul National University, Seoul, South Korea"
       position: "researcher"
