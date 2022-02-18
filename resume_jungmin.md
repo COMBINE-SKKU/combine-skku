@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: people
 title: Résumé
 resume:
   basics:
