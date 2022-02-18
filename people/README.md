@@ -49,3 +49,18 @@ Intern<br/>
 
 ![Intern](/assets/img/yejin_profile.jpg)<br/>
 [Yejin An, Bachelors]{:.heading.flip-title}<br/>
+
+
+[Seok-Jun Hong, PhD]: resume.md
+[Kyoo Ho Cho, MD, PhD]: resume_kyoohocho.md
+[Shinwon Park, PhD]: resume_swpark.md
+[Han Byul Cho, PhD]: resume_hanbyulcho.md
+[Younghyun Oh, Masters]: resume_younghyun.md
+[Yutong Bai, Masters]: resume_yutong.md
+[Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
+[Jongeun Lee, Bachelors]: resume_jongeun.md
+[Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
+[Jungmin Lee, Bachelors]: resume_jungmin.md
+[Sohyeong Kim, Bachelors]: resume_sohyeong.md
+[Hyunhoe An, Bachelors]: resume_hyunhoe.md
+[Yejin An, Bachelors]: resume_yejin.md
