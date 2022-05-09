@@ -27,7 +27,7 @@ resume:
       startDate: "2019-03-01"
       endDate: "2020-02-01"
       summary: >
-        Patients' data collecting and analyzing
+        Data collecting and analyzing
     - company: "Asan Medical Center"
       position: "Summer Research Intern"
       startDate: "2018-07-01"
