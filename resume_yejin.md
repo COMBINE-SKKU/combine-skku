@@ -30,5 +30,6 @@ resume:
     - language: "Korean"
       fluency: "native"
     - language: "English"
-      fluency: "fluent"     
+      fluency: "fluent"
+      
 ---
