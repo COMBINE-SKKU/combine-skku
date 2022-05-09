@@ -7,9 +7,9 @@ hide_description: true
 # Welcome to the COMBINE Lab!
 ![labphoto](/assets/img/combine_lab_photo2022.JPG)<br/>
 {:.no_toc}
-**Introduction**
-**People**
-**Contact**
+0. **Introduction**
+1. **People**
+2. **Contact**
 {:toc}
 ## Introduction
 ![research perspective](/assets/img/research_perspective.png)<br/>
