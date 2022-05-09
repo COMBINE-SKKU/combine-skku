@@ -16,46 +16,45 @@ hide_description: true
 We are the research group of Computational Brain Imaging and Network Modeling (COMBINE) at IBS Center for Neuroscience Imaging Research ([CNIR](https://cnir.ibs.re.kr/html/cnir_en/)) and Sungkyunkwan University ([SKKU](https://www.skku.edu/eng/index.do)) in South Korea. "COMBINE" is not a simply eye-catching acronym for the lab title but represents the main research perspective we are pursuing. Using diverse neuroimaging and computational modeling approaches, our research aims at identifying system-level principles for large-scale organization of the brain and its neurodynamics in both typical and atypcial conditions. In performing the research, we are seeking to combine multi-method (connectomics, computational modeling), multi-modal (structure and function), and multi-scale (circuit-level, large-scale network and behhaviors) analytical approaches to understand brain working principles and capture individual variations in complex behavioral and clinical outcomes. Based on these research tools, ultimately we are targeting to develop effective imaging-based biomarkers for normal cognition and clinical diagnosis.
 
 ## People
-Principal Investigator<br/>
+**Principal Investigator<br/>**
 ![principal investigator](/assets/img/hong_seok_jun.jpg)<br/>
 [Seok-Jun Hong, PhD]{:.heading.flip-title}
 
-Researcher<br/>
+**Researcher<br/>**
 ![Researcher](/assets/img/kyoohoocho_resume.jpeg)<br/>
 [Kyoo Ho Cho, MD, PhD]{:.heading.flip-title}<br/>
 
-Postdoc<br/>
+**Postdoc<br/>**
 ![Postdoc](/assets/img/swpark_profile.jpeg)<br/>
-[Shinwon Park, PhD]{:.heading.flip-title}<br/>
+[Shinwon Park]{:.heading.flip-title}<br/>
 
-Postdoc<br/>
 ![Postdoc](/assets/img/CHB_resume.jpeg)<br/>
-[Han Byul Cho, PhD]{:.heading.flip-title}<br/>
+[Han Byul Cho]{:.heading.flip-title}<br/>
 
-PhD<br/>
+**PhD<br/>**
 ![PhD Course](/assets/img/younghyun_profile.jpg)<br/>
-[Younghyun Oh, Masters]{:.heading.flip-title}<br/>
+[Younghyun Oh]{:.heading.flip-title}<br/>
 
 ![PhD Course](/assets/img/yutong_profile.png)<br/>
-[Yutong Bai, Masters]{:.heading.flip-title}<br/>
+[Yutong Bai]{:.heading.flip-title}<br/>
 
 ![PhD Course](/assets/img/ksbyeon_profile.jpg)<br/>
-[Kyoungseob Byeon, Bachelors]{:.heading.flip-title}<br/>
+[Kyoungseob Byeon]{:.heading.flip-title}<br/>
 
 ![PhD Course](/assets/img/jongeun_profile.jpg)<br/>
-[Jongeun Lee, Bachelors]{:.heading.flip-title}<br/>
+[Jongeun Lee]{:.heading.flip-title}<br/>
 
-MS<br/>
+**MS<br/>**
 ![MS Course](/assets/img/sunghyoung_profile.png)<br/>
-[Sunghyoung Hong, Bachelors]{:.heading.flip-title}<br/>
+[Sunghyoung Hong]{:.heading.flip-title}<br/>
 
 ![MS Course](/assets/img/jmlee_profile.jpg)<br/>
-[Jungmin Lee, Bachelors]{:.heading.flip-title}<br/>
+[Jungmin Lee]{:.heading.flip-title}<br/>
 
 ![MS Course](/assets/img/hyunhoe_profile.png)<br/>
-[Hyunhoe An, Bachelors]{:.heading.flip-title}<br/>
+[Hyunhoe An]{:.heading.flip-title}<br/>
 
-Intern<br/>
+**Intern<br/>**
 ![Intern](/assets/img/sohyeong_profile.png)<br/>
 [Sohyeong Kim, Bachelors]{:.heading.flip-title}<br/>
 
@@ -80,16 +79,16 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 
 [Seok-Jun Hong, PhD]: resume.md
 [Kyoo Ho Cho, MD, PhD]: resume_kyoohocho.md
-[Shinwon Park, PhD]: resume_swpark.md
-[Han Byul Cho, PhD]: resume_hanbyulcho.md
-[Younghyun Oh, Masters]: resume_younghyun.md
-[Yutong Bai, Masters]: resume_yutong.md
-[Kyoungseob Byeon, Bachelors]: resume_kyoungseob.md
-[Jongeun Lee, Bachelors]: resume_jongeun.md
-[Sunghyoung Hong, Bachelors]: resume_sunghyoung.md
-[Jungmin Lee, Bachelors]: resume_jungmin.md
+[Shinwon Park]: resume_swpark.md
+[Han Byul Cho]: resume_hanbyulcho.md
+[Younghyun Oh]: resume_younghyun.md
+[Yutong Bai]: resume_yutong.md
+[Kyoungseob Byeon]: resume_kyoungseob.md
+[Jongeun Lee]: resume_jongeun.md
+[Sunghyoung Hong]: resume_sunghyoung.md
+[Jungmin Lee]: resume_jungmin.md
+[Hyunhoe An]: resume_hyunhoe.md
 [Sohyeong Kim, Bachelors]: resume_sohyeong.md
-[Hyunhoe An, Bachelors]: resume_hyunhoe.md
 [Yejin An, Bachelors]: resume_yejin.md
 [Byongchan Ha, Bachelors]: resume_byeongchan.md
 
