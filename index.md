@@ -51,7 +51,7 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 ![MS Course](/assets/img/jmlee_profile.jpg)<br/>
 [Jungmin Lee]{:.heading.flip-title}<br/>
 
-![MS Course](/assets/img/hhan_profile.jpg)<br/>
+![MS Course](/assets/img/hyunhoe_profile.png)<br/>
 [Hyunhoe An]{:.heading.flip-title}<br/>
 
 **Intern<br/>**
