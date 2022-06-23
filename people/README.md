@@ -40,7 +40,7 @@ hide_description: true
 ![MS Course](/assets/img/jmlee_profile.jpg)<br/>
 [Jungmin Lee]{:.heading.flip-title}<br/>
 
-![MS Course](/assets/img/hyunhoe_profile.jpg)<br/>
+![MS Course](/assets/img/hyunhoe_profile.png)<br/>
 [Hyunhoe An]{:.heading.flip-title}<br/>
 
 **Intern<br/>**
