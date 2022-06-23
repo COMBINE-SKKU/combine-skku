@@ -5,7 +5,7 @@ resume:
   basics:
     name: "Hyunhoe An, Graduate"
     label: "Bachelor's degree"
-    picture: "/assets/icons/resume_hhan.jpg"
+    picture: "/assets/icons/resume_hyunhoe.jpg"
     email: "hyunhoe.an@gmail.com"
     summary: >
       Thanks for stopping by. My objective is to find a task-optimized architecture and its evolution that is akin to biological system representations by investigating recurrent neural networks (RNNs). RNNs are a type of artificial neural network (ANN) in which the output of one time step is fed back into the next. RNN can evolve over time for cognitive tasks such as working memory, or decision making.
