@@ -31,7 +31,8 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 ![Postdoc](/assets/img/CHB_resume.jpeg)<br/>
 [Han Byul Cho]{:.heading.flip-title}<br/>
 
-**PhD<br/>**
+<!-- **PhD<br/>** -->
+**Graduate Students<br/>**
 ![PhD Course](/assets/img/younghyun_profile.jpg)<br/>
 [Younghyun Oh]{:.heading.flip-title}<br/>
 
@@ -44,7 +45,7 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 ![PhD Course](/assets/img/jongeun_profile.jpg)<br/>
 [Jongeun Lee]{:.heading.flip-title}<br/>
 
-**MS<br/>**
+<!-- **MS<br/>** -->
 ![MS Course](/assets/img/sunghyoung_profile.png)<br/>
 [Sunghyoung Hong]{:.heading.flip-title}<br/>
 
@@ -53,6 +54,9 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 
 ![MS Course](/assets/img/hyunhoe_profile.png)<br/>
 [Hyunhoe An]{:.heading.flip-title}<br/>
+
+![MS Course](/assets/img/yejin_profile.jpg)<br/>
+[Yejin An, Bachelors]{:.heading.flip-title}<br/>
 
 **Intern<br/>**
 ![Intern](/assets/img/sohyeong_profile.png)<br/>
