@@ -88,8 +88,8 @@ IBS Center for Neuroscience Imaging Research, N Center, Sungkyunkwan University,
 [Sunghyoung Hong]: resume_sunghyoung.md
 [Jungmin Lee]: resume_jungmin.md
 [Hyunhoe An]: resume_hyunhoe.md
-[Sohyeong Kim, Bachelors]: resume_sohyeong.md
 [Yejin An, Bachelors]: resume_yejin.md
+[Sohyeong Kim, Bachelors]: resume_sohyeong.md
 [Byeongchan Ha, Bachelors]: resume_byeongchan.md
 
 <!-- [Muhammad Hamza Shah Nawaz, Masters]: resume_hamza.md -->
