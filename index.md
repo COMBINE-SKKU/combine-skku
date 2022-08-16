@@ -56,20 +56,17 @@ We are the research group of Computational Brain Imaging and Network Modeling (C
 [Hyunhoe An]{:.heading.flip-title}<br/>
 
 ![MS Course](/assets/img/yejin_profile.jpg)<br/>
-[Yejin An, Bachelors]{:.heading.flip-title}<br/>
+[Yejin Ann]{:.heading.flip-title}<br/>
 
 **Intern<br/>**
-![Intern](/assets/img/sohyeong_profile.png)<br/>
-[Sohyeong Kim, Bachelors]{:.heading.flip-title}<br/>
-
-![Intern](/assets/img/yejin_profile.jpg)<br/>
-[Yejin An, Bachelors]{:.heading.flip-title}<br/>
-
 ![Intern](/assets/img/byeongchan_profile.jpg)<br/>
 [Byeongchan Ha, Bachelors]{:.heading.flip-title}<br/>
 
 <!-- ![Intern](/assets/img/hamza2.jpg)<br/>
 [Muhammad Hamza Shah Nawaz, Masters]{:.heading.flip-title}<br/> -->
+
+<!-- ![Intern](/assets/img/sohyeong_profile.png)<br/>
+[Sohyeong Kim, Bachelors]{:.heading.flip-title}<br/> -->
 
 <h2>We are hiring now!</h2>
 See our job [posting].
