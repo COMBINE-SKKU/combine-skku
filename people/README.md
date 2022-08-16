@@ -43,13 +43,10 @@ hide_description: true
 ![MS Course](/assets/img/hyunhoe_profile.png)<br/>
 [Hyunhoe An]{:.heading.flip-title}<br/>
 
+![MS Course](/assets/img/yejin_profile.jpg)<br/>
+[Yejin Ann]{:.heading.flip-title}<br/>
+
 **Intern<br/>**
-![Intern](/assets/img/sohyeong_profile.png)<br/>
-[Sohyeong Kim, Bachelors]{:.heading.flip-title}<br/>
-
-![Intern](/assets/img/yejin_profile.jpg)<br/>
-[Yejin An, Bachelors]{:.heading.flip-title}<br/>
-
 ![Intern](/assets/img/byeongchan_profile.jpg)<br/>
 [Byeongchan Ha, Bachelors]{:.heading.flip-title}<br/>
 
@@ -65,6 +62,5 @@ hide_description: true
 [Sunghyoung Hong]: resume_sunghyoung.md
 [Jungmin Lee]: resume_jungmin.md
 [Hyunhoe An]: resume_hyunhoe.md
-[Sohyeong Kim, Bachelors]: resume_sohyeong.md
-[Yejin An, Bachelors]: resume_yejin.md
+[Yejin Ann]: resume_yejin.md
 [Byeongchan Ha, Bachelors]: resume_byeongchan.md
