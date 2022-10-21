@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Diagnosis-informed connectivity subtyping discovers subgroups of autism with reproducible symptom profiles
-date: 12 May 2022
+date: 01 Aug 2022
 image: /assets/img/projects/2022_ASD_connectivity_hschoi.jpg
 screenshot: /assets/img/projects/2022_ASD_connectivity_hschoi.jpg
 links:
@@ -9,8 +9,8 @@ links:
     url: https://www.sciencedirect.com/science/article/pii/S1053811922003366
 caption: Choi hs, Byeon ks, Hong sj et al. NeuroImage, 2022
 description: >
-  Hyoungshin Choi, Kyoungseob Byeon, Bo-yong Park, Jong-eun Lee, Sofie L. Valk, Boris Bernhardt, Adriana Di Martino, Michael Milham, Seok-Jun Hong, Hyunjin Park,
-Diagnosis-informed connectivity subtyping discovers subgroups of autism with reproducible symptom profiles,NeuroImage,Volume 256,2022,119212
+  Hyoungshin Choi, Kyoungseob Byeon, Bo-yong Park, Jong-eun Lee, Sofie L. Valk, Boris Bernhardt, Adriana Di Martino, Michael Milham, Seok-Jun Hong, Hyunjin Park, Diagnosis-informed connectivity subtyping discovers subgroups of autism with reproducible symptom profiles, NeuroImage 256 (2022) 119212
+accent_color: '#4fb1ba'
 accent_image:
   background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
   overlay:    true
