@@ -2,8 +2,8 @@
 layout: project
 title: A convergent structure–function substrate of cognitive imbalances in autism
 date: 12 May 2022
-image: /assets/img/projects/2022_ASD_structure_imbalance_sjhong.png
-screenshot: /assets/img/projects/2022_ASD_structure_imbalance_sjhong.png
+image: /assets/img/projects/2022_ASD_structure_imbalance_sjhong_400.png
+screenshot: /assets/img/projects/2022_ASD_structure_imbalance_sjhong_400.png
 links:
   - title: Journal 
     url: https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhac156/6584525
