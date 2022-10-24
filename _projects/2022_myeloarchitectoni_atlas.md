@@ -6,7 +6,7 @@ image: /assets/img/projects/2022_myeloarchitectoni_atlas.png
 screenshot: /assets/img/projects/2022_myeloarchitectoni_atlas.png
 links:
   - title: Journal
-    url: https://www.sciencedirect.com/science/article/pii/S1053811922007327
+    url: https://www.sciencedirect.com/science/article/pii/S1053811922007327?via%3Dihub
 caption: Foit N, Yung S, Hong SJ, et al. NeuroImage, 2022
 description: >
   Niels A. Foit, Seles Yung, Hyo Min Lee, Andrea Bernasconi, Neda Bernasconi, Seok-Jun Hong, A whole-brain 3D myeloarchitectonic atlas: Mapping the Vogt-Vogt legacy to the cortical surface, NeuroImage (263) 2022
