@@ -1,6 +1,6 @@
 ---
 layout: project
-title: A whole-brain 3D myeloarchitectonic atlas- Mapping the Vogt-Vogt legacy to the cortical surface
+title: A whole-brain 3D myeloarchitectonic atlas-Mapping the Vogt-Vogt legacy to the cortical surface
 date: Nov 2022
 image: /assets/img/projects/2022_myeloarchitectoni_atlas.png
 screenshot: /assets/img/projects/2022_myeloarchitectoni_atlas.png
