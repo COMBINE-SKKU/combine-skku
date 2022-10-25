@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mapping functional gradients of the striatal circuit using simultaneous microelectric stimulation and ultrahigh-field fMRI in non-human primates
+title: The potential of myelin-sensitive imaging:Redefining spatiotemporal patterns of myeloarchitecture
 date: 09 Sep 2022
 image: /assets/img/projects/2022_MRI_myelin.png
 screenshot: /assets/img/projects/2022_MRI_myelin.png
