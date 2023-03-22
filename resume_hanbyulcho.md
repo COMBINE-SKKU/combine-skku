@@ -15,9 +15,6 @@ resume:
       city: "Suwon"
       countryCode: "South Korea"
     profiles:
-      - network: "Twitter"
-        username: "Han Byul Cho"
-        url: "https://twitter.com/h_hanbyul"
       - network: "Google Scholar"
         username: "Han Byul Cho"
         url: "https://scholar.google.com/citations?hl=en&user=LHwLMQQAAAAJ&view_op=list_works"
