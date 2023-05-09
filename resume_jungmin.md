@@ -20,7 +20,7 @@ resume:
         url: "https://www.linkedin.com/in/jungmin-lee95/"
       - network: "Google Scholar"
         username: "Jungmin Lee"
-        url: "https://scholar.google.com/citations?user=cRn6EvcAAAAJ&hl=ko&authuser=2"       
+        url: "https://scholar.google.com/citations?user=pwNe9HUAAAAJ&hl=en&authuser=1"       
   work:
     - company: "Asan Medical Center"
       position: "Researcher"
